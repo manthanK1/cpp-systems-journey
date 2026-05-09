@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main () {
-    int number, guess,tries = 0;
+    int number, guess,tries = 0; //tries gives garbage value but it will be incremented in the loop before being used, so it will work correctly.
 
     srand(time(NULL)); // seed the random number generator
     number = rand() % 100 + 1; // generate a random number between
