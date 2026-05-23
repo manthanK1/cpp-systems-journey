@@ -22,3 +22,8 @@
 - Added first C++ file: `hello_world.cpp`
 - Ready to begin C++ journey
 
+## date 14-may-2026 
+- brain is cooked dynamic memory allocation overlaid with topic of pointers had for three days 
+- back it thought 
+- dynamic , recussion , enums
+- OOP
